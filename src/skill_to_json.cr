@@ -10,5 +10,8 @@
 
 # reads entire file as a string
 fileContent = File.read(ARGV[0])
-puts fileContent
+# puts fileContent
 
+arrSkills = fileContent.scan(/(\|-+\|\n\|)(([^-]*\n)(\|-+\|\n)){3}([^-]*\n)(\|-+\|)/)
+
+puts arrSkills
