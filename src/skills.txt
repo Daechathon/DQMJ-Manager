@@ -1,0 +1,47 @@
+|---------------------------------------|
+| No. 1 | Frizz & Bang |
+|---------------------------------------|
+| Frizz and Bang magic for novices. |
+|---------------------------------------|
+| Learned By: Imp, Spitnik |
+|---------------------------------------|
+| S | Frizz | 3 |
+| A | Flame Slash | 8 |
+| S | Bang | 15 |
+| A | Bomb Slash | 24 |
+| S | Frizzle | 36 |
+| S | Boom | 50 |
+|---------------------------------------|
+
+|---------------------------------------|
+| No. 2 | Frizz & Bang II |
+|---------------------------------------|
+| Frizz and Bang magic for pros. |
+|---------------------------------------|
+| Learned By: Archdemon, Frizz & Bang |
+|---------------------------------------|
+| A | Flame Slash | 5 |
+| A | Bomb Slash | 10 |
+| S | Frizzle | 20 |
+| S | Boom | 30 |
+| S | Kafrizz | 45 |
+| S | Kaboom | 60 |
+| P | Frizz Guard | 75 |
+|---------------------------------------|
+
+|---------------------------------------|
+| No. 3 | Frizz & Bang III |
+|---------------------------------------|
+| Frizz and Bang magic for experts. |
+|---------------------------------------|
+| Learned By: Frizz & Bang II |
+|---------------------------------------|
+| S | Kafrizz | 8 |
+| S | Kaboom | 16 |
+| A | Inferno Slash | 28 |
+| A | Blast Slash | 40 |
+| S | Kafrizzle | 65 |
+| S | Kaboomle | 90 |
+| P | Frizz Guard | 95 |
+| P | Bang Guard | 100 |
+|---------------------------------------|
